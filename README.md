@@ -8,3 +8,9 @@ manage student details and marks and get the result. you can add , delete or upd
 # HOMEPAGE
 
 ![image](https://github.com/shubham-khantwal/student_management/blob/master/homepage.PNG)
+
+# FRONTEND CODE
+[code](https://github.com/shubham-khantwal/student_management/blob/master/studentManagement.py)
+
+# BACKEND CODE
+[code](https://github.com/shubham-khantwal/student_management/blob/master/studentManagement.py)
