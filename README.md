@@ -5,4 +5,6 @@ manage student details and marks and get the result. you can add , delete or upd
 1 - tkinter
 2 - sqlite
 
+# HOMEPAGE
+
 ![image](https://github.com/shubham-khantwal/student_management/blob/master/homepage.PNG)
